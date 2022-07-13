@@ -1,0 +1,50 @@
+body{
+
+	font-size: 1.2rem;
+	color: white;
+	background-color: black;
+	font-family: Segoe UI,system-ui,-apple-system,sans-serif
+}
+
+img{
+	width:70em;
+	height: 30em;
+}
+
+.yellow{
+
+	color: rgb(130, 156, 0);
+
+}
+
+.green{
+
+	color: rgb(5, 158, 97);
+}
+
+
+.blue{
+
+	color:skyblue;
+}
+
+.padding{
+
+	padding: 11rem; 
+	padding-top: 2rem
+}
+.grid{
+	padding: 20px;
+	border: solid white;
+	border-width: 1px;
+
+}
+a{
+	text-decoration: none;	
+	color: lightblue;
+}
+
+a:hover{
+	text-decoration: underline;
+	color: skyblue;
+}
